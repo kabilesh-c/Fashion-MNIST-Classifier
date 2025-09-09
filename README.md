@@ -56,9 +56,16 @@ After training, the model achieves a test accuracy of 91.02 percent. This means 
 
 Below is the visualization of the training process.
 
-Training and validation accuracy plot & Training and validation loss plot
+Training and validation accuracy plot
+
 
 <img width="576" height="432" alt="image" src="https://github.com/user-attachments/assets/d01b017b-7ddc-470f-a014-6f9836dadb81" />
+
+
+ Training and validation loss plot
+
+
+<img width="576" height="432" alt="image" src="https://github.com/user-attachments/assets/60235907-fa10-45c2-a597-97db56d1d71c" />
 
 
 Below are example predictions from the test dataset. The model’s predicted label is shown along with the true label.
