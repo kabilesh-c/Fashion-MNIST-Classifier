@@ -8,7 +8,7 @@ This project demonstrates how to build an image classification model using the F
 
 The Fashion MNIST dataset is provided by TensorFlow and contains 60,000 grayscale images for training and 10,000 images for testing. Each image has a size of 28 by 28 pixels. The dataset contains the following ten categories:
 
-1. T-shirt/top
+1. T shirt/top
 2. Trouser
 3. Pullover
 4. Dress
